@@ -3,6 +3,7 @@
         <AppHeader />
         <Nuxt />
         teste
+        teste2
         <AppFooter />
     </div>
 </template>
